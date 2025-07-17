@@ -1,5 +1,4 @@
-import pandas as pd
-import hashlib
+from medico_login import authenticate
 
 # --- Dummy User Database (Replace with real DB later) ---
 def load_users():
